@@ -29,4 +29,4 @@ Ben Lin (https://github.com/yogs0ddhoth) , Jamille Rooks (https://github.com/jam
 # Technologies
 MongoDB, Express, Node, React, Semantic, Stripe
 # Email
-ZachPCodes@gmail.com
+richinatl@gmail.com
