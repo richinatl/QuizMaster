@@ -1,4 +1,9 @@
-**After 6 months of flawlewss operation this app has suddenly stopped working because of an issue with Heroku and I have not had time to investigate as of yet**
+**After 6 months of flawlewss operation this app has suddenly stopped working because of an issue with Heroku and I have not had time to investigate as of yet.
+I've yet to confirm but I suspect the issue is this:**
+
+<br>
+
+![herokuIssue](https://user-images.githubusercontent.com/95508564/206523704-e40a7e93-2b40-4e46-9e16-0fba7097f881.png)
 
 Richard Murphy 12/08/22
 
@@ -13,6 +18,7 @@ Richard Murphy 12/08/22
   8. [Technologies](#Technologies)
   9. [Email](#Email)
   
+
 # Quizmaster
 Deployed application is live at: https://polar-island-54317.herokuapp.com/ on Heroku
 ## Mockup 
