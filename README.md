@@ -1,3 +1,7 @@
+**After 6 months of flawlewss operation this app has suddenly stopped working because of an issue with Heroku and I have not had time to investigate as of yet**
+
+Richard Murphy 12/08/22
+
 # Table of Contents
   1. [Title](#Title)
   2. [Mockup](#Mockup)
