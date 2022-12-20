@@ -1,4 +1,4 @@
-**After 6 months of flawlewss operation this app has suddenly stopped working because of an issue with Heroku and I have not had time to investigate as of yet.
+**After 6 months of flawless operation this app has suddenly stopped working because of an issue with Heroku and I have not had time to investigate as of yet.
 I've yet to confirm but I suspect the issue is this:**
 
 <br>
