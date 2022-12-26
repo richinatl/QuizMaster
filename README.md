@@ -5,6 +5,9 @@ I've yet to confirm but I suspect the issue is this:**
 
 ![herokuIssue](https://user-images.githubusercontent.com/95508564/206523704-e40a7e93-2b40-4e46-9e16-0fba7097f881.png)
 
+Heroku has emliminated their free student hosting program. All of my apps deployed to Heroku stopped working at the same time.
+I apologize to any potential employer who wanted to see the live program, but if you look at the code you'll see it's written properly and efficiently.
+
 Richard Murphy 12/08/22
 
 # Table of Contents
